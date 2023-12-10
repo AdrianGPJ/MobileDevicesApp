@@ -3,6 +3,7 @@
 At this moment of the second delivery I have only a test to show that the api works and it can be used to search for gifs, if you want to test it out, on the FutureBuilder you can change the thing it searches for by changing "tonto manel" for any other concept you want to search.
 
 The figma design right now is really simple as it's only the concept of the app and the overall decoration may be different for the next delivery.
+The whole idea for the app is to be able to search multiple gifs being this one screen and another one where you can see your gifs saved as favourites aswell as the most popular gif at the moment.
 
 ## Getting Started
 
