@@ -1,6 +1,6 @@
 # delivery2
 
-A new Flutter project.
+At this moment of the second delivery I have only a test to show that the api works and it can be used to search for gifs, if you want to test it out, on the FutureBuilder you can change the thing it searches for by changing "tonto manel" for any other concept you want to search.
 
 ## Getting Started
 
